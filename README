@@ -1,0 +1,2 @@
+nmap <C-j> <ESC>:!clear; echo <C-r><C-w>; dict <C-r><C-w><CR>
+
